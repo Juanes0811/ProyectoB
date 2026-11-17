@@ -57,3 +57,6 @@ V | F |    F
 F | V |    F
 F | F |    F
 
+# Ejemplo de codigo de Python
+```python
+print("Hola, este es un ejemplo de codigo")
