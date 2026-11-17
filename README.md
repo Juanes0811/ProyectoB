@@ -12,3 +12,16 @@ Aqui va el texto normal
 Esto es *texto en negrilla*
 Esto es _texto en cursiva_
 Y _*Se pueden conbinar*_
+
+Ejemplo de una lista de colores
+* Rojo
+* Azul
+* Blanco
+* Verde
+
+Lista numerada
+1. Levantarse
+2. Abrir Rocket League
+3. Perder todas las partidas
+4. Apagar
+5. Dormir
