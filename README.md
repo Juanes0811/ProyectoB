@@ -60,3 +60,8 @@ F | F |    F
 # Ejemplo de codigo de Python
 ```python
 print("Hola, este es un ejemplo de codigo")
+```
+
+# Ejemplo de emojis
+
+:+1: :octocat: 🏁 :colombia: 
