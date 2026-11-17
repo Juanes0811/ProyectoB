@@ -25,3 +25,26 @@ Lista numerada
 3. Perder todas las partidas
 4. Apagar
 5. Dormir
+
+Ejemplo de lista con varias niveles 
+* Tierra
+  * Luna
+* Jupiter
+  * Calisto
+  * Ganimedes
+  * Europa
+  * IO
+* Saturno
+  * Titan
+
+Ejemplo de una lista de checkeo - Ir a la u
+
+- [x] Levantarse
+- [x] Desayunar
+- [x] Organizarse
+- [x] Salir de casa
+- [ ] Ir a clase
+ 
+
+
+
