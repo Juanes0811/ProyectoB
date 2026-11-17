@@ -48,5 +48,12 @@ Ejemplo de una lista de checkeo - Ir a la u
 Samuel dijo
 > Soy marica, me encanta MP
 
+## Tabla de verdad del AND
 
+A | B | A AND B
+--|---|--------
+V | V |    V   
+V | F |    F
+F | V |    F
+F | F |    F
 
