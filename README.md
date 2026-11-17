@@ -44,7 +44,9 @@ Ejemplo de una lista de checkeo - Ir a la u
 - [x] Organizarse
 - [x] Salir de casa
 - [ ] Ir a clase
- 
+
+Samuel dijo
+> Soy marica, me encanta MP
 
 
 
